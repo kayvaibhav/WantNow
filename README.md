@@ -1,4 +1,5 @@
-# Want Now
+# Want Now 
+[_Link_](https://kayvaibhav.github.io/WantNow/)
 ## Introduction
 Want Now is a college cafetaria automation website designed to help students place food orders without having to wait in line. The application was developed to maintain social distancing during the COVID pandemic and improve the overall experience of ordering food.
 ## UX Research and Prototyping
